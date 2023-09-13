@@ -1,0 +1,28 @@
+body{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+
+ h2,h6{
+    margin-left:40px;
+    margin-top: 30px;
+}
+.container1,.container2{
+    display:flex;
+    padding:30px 30px;
+
+}
+.container2,.container3{
+    margin-left:10px;
+}
+.container1 img{
+    width:300px;
+}
+.container2 img{
+    width:250px;
+    margin-right: 10px;
+}
+
+
